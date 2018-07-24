@@ -14,7 +14,7 @@
 
 @end
 
-@implementation RCCTabBarController
+@implementation RCCTabBarController 
 
 
 -(UIInterfaceOrientationMask)supportedInterfaceOrientations {
